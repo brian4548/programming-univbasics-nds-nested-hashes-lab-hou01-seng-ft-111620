@@ -44,7 +44,7 @@ def aoh_lookup(aoh, row, key)
    BRUCE_G,
   ]
   
-  people[0][:name]
+  people[2][:name]
   
 end
 
