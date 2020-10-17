@@ -59,6 +59,6 @@ def aoh_update(aoh, row, key, new_value)
    BRUCE_G,
   ]
   
-  people[2][:name] = "bob"
+  people[1][:name] = "bob"
   people
 end
